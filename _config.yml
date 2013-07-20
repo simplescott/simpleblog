@@ -1,0 +1,4 @@
+name: SimpleBlog
+pygments: true
+permalink: pretty
+paginate: 5
